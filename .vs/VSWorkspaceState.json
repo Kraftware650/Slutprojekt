@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\app"
+    "\\app",
+    "\\Components",
+    "\\images"
   ],
+  "SelectedNode": "\\images\\logo.svg",
   "PreviewInSolutionExplorer": false
 }
